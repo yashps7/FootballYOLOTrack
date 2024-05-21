@@ -1,1 +1,1 @@
-This part assigns player with thier team wrt to color of jersey.
+This part assigns ball acqusition to player with thier position and ball position on pitch.
