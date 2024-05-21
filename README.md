@@ -32,4 +32,4 @@ We utilize computer vision techniques OpenCV and YOLO object detection algorithm
 
   ## Input
 
-  <iframe src="https://drive.google.com/file/d/1ExCWSpHMPpDDboDgA50VZh14OoNyhKIY/preview" width="640" height="480" allow="autoplay"></iframe>
+  <iframe src="https://drive.google.com/drive/folders/1ExCWSpHMPpDDboDgA50VZh14OoNyhKIY/preview" width="640" height="480" allow="autoplay"></iframe>
