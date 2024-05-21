@@ -32,4 +32,4 @@ We utilize computer vision techniques OpenCV and YOLO object detection algorithm
 
   ## Input
 
-[ Give me readme.md code for this  https://drive.google.com/drive/folders/1ExCWSpHMPpDDboDgA50VZh14OoNyhKIY](https://drive.google.com/drive/folders/1ExCWSpHMPpDDboDgA50VZh14OoNyhKIY)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/drive/folders/1ExCWSpHMPpDDboDgA50VZh14OoNyhKIY)
