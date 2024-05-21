@@ -32,9 +32,9 @@ We utilize computer vision techniques OpenCV and YOLO object detection algorithm
 
   ## Input
 
-[![Watch the video](https://drive.google.com/file/d/1DaG5M1h_UrrADzg2gVOI16AXX7bydO-J/view?usp=sharing)](https://drive.google.com/file/d/1QwNygYQDCFfOzTjxI8RRY8A4SiKtT-8r/view?usp=sharing)
+[![Watch the video](https://github.com/yashps7/FootballYOLOTrack/blob/main/imgs/input.png)](https://drive.google.com/file/d/1QwNygYQDCFfOzTjxI8RRY8A4SiKtT-8r/view?usp=sharing)
 
 ### Output
 
-[![Watch the video](https://drive.google.com/file/d/15iKWk_NvVC_aLm9PavrgKGNdwJvQd_oj/view?usp=sharing)](https://drive.google.com/file/d/12JsJsbXZbUnMnOO7bGqKRhtJare3s-L6/view?usp=sharing)
+[![Watch the video](https://github.com/yashps7/FootballYOLOTrack/blob/main/imgs/output.png)](https://drive.google.com/file/d/12JsJsbXZbUnMnOO7bGqKRhtJare3s-L6/view?usp=sharing)
 
