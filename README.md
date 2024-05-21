@@ -31,10 +31,12 @@ We utilize computer vision techniques OpenCV and YOLO object detection algorithm
   We use K-means clustering of pixel value in bounding box of one player. Hence it will contain only two values one of grass in background and one of his jersey color. Hence according to color we're assigning team to that player.
 
   ## Input
+  #### Click to play: 
 
 [![Watch the video](https://github.com/yashps7/FootballYOLOTrack/blob/main/imgs/input.png)](https://drive.google.com/file/d/1QwNygYQDCFfOzTjxI8RRY8A4SiKtT-8r/view?usp=sharing)
 
 ### Output
+#### Click to play: 
 
 [![Watch the video](https://github.com/yashps7/FootballYOLOTrack/blob/main/imgs/output.png)](https://drive.google.com/file/d/12JsJsbXZbUnMnOO7bGqKRhtJare3s-L6/view?usp=sharing)
 
